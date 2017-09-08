@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/jPHWgW' target='_blank'><img src='https://4.bp.blogspot.com/-TZBipPmNfjQ/WbKocUBU7RI/AAAAAAAAAm8/wf0onTYbdBcgm80wI9h_e7b4FY0oz5BPQCLcBGAs/s640/du-an-zenna-villas-phoi-canh-tong-the-1.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://goo.gl/jPHWgW' target='_blank'><img src='https://4.bp.blogspot.com/-TZBipPmNfjQ/WbKocUBU7RI/AAAAAAAAAm8/wf0onTYbdBcgm80wI9h_e7b4FY0oz5BPQCLcBGAs/s640/du-an-zenna-villas-phoi-canh-tong-the-1.jpg' width='500px'/><br/>Biệt Thự Biển Zenna Villas</a>.LH HOTLINE: 0916800346. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
